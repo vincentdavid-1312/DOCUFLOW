@@ -1,0 +1,10 @@
+{
+  "name": "DocuFlow - Document & PDF Studio",
+  "description": "All-in-one mobile-first document scanner, PDF editor, high-thinking OCR, converter, compressor, and cross-device cloud sync suite.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
